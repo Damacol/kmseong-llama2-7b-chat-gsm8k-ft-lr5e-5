@@ -1,4 +1,4 @@
-# kmseong/llama2_7b_chat-gsm8k_FT_lr5e-5 - Private, Uncensored AI for Real Creators and Devs
+# kmseong/llama2_7b_chat-gsm8k_FT_lr5e-5  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
